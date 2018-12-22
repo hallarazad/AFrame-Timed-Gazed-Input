@@ -3,7 +3,7 @@
 Timed gaze input component to use with AFrame for interactions without controller. Works with all VR headsets that support AFrame.
 
 ### Live Demo
-tiny.cc/hallar-webvr
+[Web VR Demo](tiny.cc/hallar-webvr)
 
 ### Installation
 
