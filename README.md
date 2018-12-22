@@ -15,7 +15,7 @@ Install and use by directly including the [browser file](dist):
 <head>
   <title>My A-Frame Scene</title>
   <script src="https://aframe.io/releases/0.8.0/aframe.min.js"></script> 
-  <script src="https://unpkg.com/aframe-gaze-control-component/dist/aframe-gaze-control-component.min.js"></script>
+  <script src="http://cdn.jsdelivr.net/gh/hallarazad/AFrame-Timed-Gazed-Input@master/dist/gaze-input-controller.js"></script>
 </head>
 
 <body>
