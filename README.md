@@ -9,7 +9,7 @@ tiny.cc/hallar-webvr
 
 #### Browser
 
-Install and use by directly including the [browser files](dist):
+Install and use by directly including the [browser file](dist):
 
 ```html
 <head>
