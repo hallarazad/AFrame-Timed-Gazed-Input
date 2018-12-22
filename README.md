@@ -20,6 +20,15 @@ Install and use by directly including the [browser files](dist):
 
 <body>
   <a-scene>
+    
+    <a-box 
+          material="color: #8C3CA4" 
+          interactible
+          dynamic-body
+          functionName="EnablePhysics"
+          position="-0.5 4.426 -4.573"
+          scale="-0.680 0.680 0.680" ></a-box>
+    
     <a-entity id="cameraRig" position="3 0 0">
         <a-entity position="0 0 0">
           <a-camera wasd-controls-enabled="false" position="0 0 0" look-controls>
